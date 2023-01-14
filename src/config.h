@@ -1,0 +1,7 @@
+#pragma once
+
+#define BOARD_ROWS 3
+#define BOARD_COLS 3
+
+#define STRIKEPADS_TOUCH_THRESHOLD 1000
+#define STRIKEPADS_TOUCH_MS_THRESHOLD 60
