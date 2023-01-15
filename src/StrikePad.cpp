@@ -17,7 +17,8 @@ StrikePad::StrikePad(uint8_t sensorPin, Adafruit_NeoPixel& neopixel, int32_t cro
 }
 
 int32_t StrikePad::readSensorRAW() {
-    return analogRead(this->sensorPin);
+    return digitalRead(this->sensorPin);
+    // return analogRead(this->sensorPin);
 }
 
 void StrikePad::setCrossesLED(int32_t start_no, int32_t end_no) {

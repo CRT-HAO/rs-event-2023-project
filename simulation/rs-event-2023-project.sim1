@@ -6,23 +6,23 @@
 
 <item itemtype="Voltimeter" CircId="Voltimeter-2" mainComp="false" Show_id="false" Show_Val="false" Pos="-44,684" rotation="0" hflip="1" vflip="1" label="Voltimeter-2" idLabPos="-24,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" SwitchPins="false" />
 
-<item itemtype="WS2812" CircId="WS2812-5" mainComp="false" Show_id="false" Show_Val="false" Pos="156,376" rotation="0" hflip="1" vflip="1" label="WS2812-5" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-5" mainComp="false" Show_id="true" Show_Val="false" Pos="156,332" rotation="0" hflip="1" vflip="1" label="0, 2" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
-<item itemtype="WS2812" CircId="WS2812-8" mainComp="false" Show_id="false" Show_Val="false" Pos="192,376" rotation="0" hflip="1" vflip="1" label="WS2812-8" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-8" mainComp="false" Show_id="true" Show_Val="false" Pos="192,332" rotation="0" hflip="1" vflip="1" label="1, 2" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
-<item itemtype="WS2812" CircId="WS2812-9" mainComp="false" Show_id="false" Show_Val="false" Pos="228,376" rotation="0" hflip="1" vflip="1" label="WS2812-9" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-9" mainComp="false" Show_id="true" Show_Val="false" Pos="228,332" rotation="0" hflip="1" vflip="1" label="2, 2" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
-<item itemtype="WS2812" CircId="WS2812-12" mainComp="false" Show_id="false" Show_Val="false" Pos="228,408" rotation="0" hflip="1" vflip="1" label="WS2812-12" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-12" mainComp="false" Show_id="true" Show_Val="false" Pos="228,380" rotation="0" hflip="1" vflip="1" label="2, 1" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
-<item itemtype="WS2812" CircId="WS2812-13" mainComp="false" Show_id="false" Show_Val="false" Pos="156,408" rotation="0" hflip="1" vflip="1" label="WS2812-13" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-13" mainComp="false" Show_id="true" Show_Val="false" Pos="156,380" rotation="0" hflip="1" vflip="1" label="0, 1" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
-<item itemtype="WS2812" CircId="WS2812-14" mainComp="false" Show_id="false" Show_Val="false" Pos="192,408" rotation="0" hflip="1" vflip="1" label="WS2812-14" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-14" mainComp="false" Show_id="true" Show_Val="false" Pos="192,380" rotation="0" hflip="1" vflip="1" label="1, 1" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
-<item itemtype="WS2812" CircId="WS2812-17" mainComp="false" Show_id="false" Show_Val="false" Pos="228,440" rotation="0" hflip="1" vflip="1" label="WS2812-17" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-17" mainComp="false" Show_id="true" Show_Val="false" Pos="228,428" rotation="0" hflip="1" vflip="1" label="2, 0" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
-<item itemtype="WS2812" CircId="WS2812-18" mainComp="false" Show_id="false" Show_Val="false" Pos="156,440" rotation="0" hflip="1" vflip="1" label="WS2812-18" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-18" mainComp="false" Show_id="true" Show_Val="false" Pos="156,428" rotation="0" hflip="1" vflip="1" label="0, 0" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
-<item itemtype="WS2812" CircId="WS2812-19" mainComp="false" Show_id="false" Show_Val="false" Pos="192,440" rotation="0" hflip="1" vflip="1" label="WS2812-19" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
+<item itemtype="WS2812" CircId="WS2812-19" mainComp="false" Show_id="true" Show_Val="false" Pos="192,428" rotation="0" hflip="1" vflip="1" label="1, 0" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 Leds" Cols="1 Leds" />
 
 <item itemtype="Led" CircId="Led-25" mainComp="false" Show_id="false" Show_Val="false" Pos="20,464" rotation="270" hflip="-1" vflip="1" label="Led-25" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Color="Yellow" Grounded="false" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
 
@@ -30,32 +30,122 @@
 
 <item itemtype="Ground" CircId="Ground-53" mainComp="false" Show_id="false" Show_Val="false" Pos="20,376" rotation="0" hflip="1" vflip="-1" label="Ground-53" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
 
-<item itemtype="Connector" uid="connector-40" startpinid="Voltimeter-2-rPin" endpinid="Mega-1-GND2" pointList="-36,700,52,700,52,644" />
+<item itemtype="Push" CircId="Push-59" mainComp="false" Show_id="true" Show_Val="false" Pos="72,876" rotation="0" hflip="1" vflip="1" label="0, 0" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-41" startpinid="Voltimeter-2-lPin" endpinid="Mega-1-5V00" pointList="-52,700,-52,712,44,712,44,644" />
+<item itemtype="Push" CircId="Push-70" mainComp="false" Show_id="true" Show_Val="false" Pos="132,876" rotation="0" hflip="1" vflip="1" label="1, 0" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-42" startpinid="Mega-1-2" endpinid="WS2812-5-InPin" pointList="116,500,116,376,144,376" />
+<item itemtype="Push" CircId="Push-71" mainComp="false" Show_id="true" Show_Val="false" Pos="192,876" rotation="0" hflip="1" vflip="1" label="2, 0" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-43" startpinid="WS2812-5-OutPin" endpinid="WS2812-8-InPin" pointList="168,388,168,376,180,376" />
+<item itemtype="Push" CircId="Push-72" mainComp="false" Show_id="true" Show_Val="false" Pos="132,824" rotation="0" hflip="1" vflip="1" label="1, 1" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-44" startpinid="WS2812-8-OutPin" endpinid="WS2812-9-InPin" pointList="204,388,204,376,216,376" />
+<item itemtype="Push" CircId="Push-73" mainComp="false" Show_id="true" Show_Val="false" Pos="72,824" rotation="0" hflip="1" vflip="1" label="0, 1" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-45" startpinid="WS2812-13-OutPin" endpinid="WS2812-14-InPin" pointList="168,420,168,408,180,408" />
+<item itemtype="Push" CircId="Push-74" mainComp="false" Show_id="true" Show_Val="false" Pos="192,824" rotation="0" hflip="1" vflip="1" label="2, 1" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-46" startpinid="WS2812-14-OutPin" endpinid="WS2812-12-InPin" pointList="204,420,204,408,216,408" />
+<item itemtype="Push" CircId="Push-75" mainComp="false" Show_id="true" Show_Val="false" Pos="132,776" rotation="0" hflip="1" vflip="1" label="1, 2" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-47" startpinid="WS2812-18-OutPin" endpinid="WS2812-19-InPin" pointList="168,452,168,440,180,440" />
+<item itemtype="Push" CircId="Push-76" mainComp="false" Show_id="true" Show_Val="false" Pos="72,776" rotation="0" hflip="1" vflip="1" label="0, 2" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-48" startpinid="WS2812-19-OutPin" endpinid="WS2812-17-InPin" pointList="204,452,204,440,216,440" />
+<item itemtype="Push" CircId="Push-77" mainComp="false" Show_id="true" Show_Val="false" Pos="192,776" rotation="0" hflip="1" vflip="1" label="2, 2" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
-<item itemtype="Connector" uid="connector-49" startpinid="Mega-1-3" endpinid="WS2812-13-InPin" pointList="108,500,108,408,144,408" />
+<item itemtype="Node" CircId="Node-109" mainComp="false" Pos="44,712" />
 
-<item itemtype="Connector" uid="connector-50" startpinid="Mega-1-4" endpinid="WS2812-18-InPin" pointList="100,500,100,440,144,440" />
+<item itemtype="Node" CircId="Node-112" mainComp="false" Pos="44,740" />
 
-<item itemtype="Connector" uid="connector-51" startpinid="Mega-1-13" endpinid="Led-25-lPin" pointList="20,500,20,480" />
+<item itemtype="Node" CircId="Node-115" mainComp="false" Pos="104,740" />
 
-<item itemtype="Connector" uid="connector-52" startpinid="Led-25-rPin" endpinid="Resistor-39-rPin" pointList="20,448,20,440" />
+<item itemtype="Node" CircId="Node-118" mainComp="false" Pos="44,776" />
 
-<item itemtype="Connector" uid="Connector-54" startpinid="Resistor-39-lPin" endpinid="Ground-53-Gnd" pointList="20,408,20,392" />
+<item itemtype="Node" CircId="Node-121" mainComp="false" Pos="44,824" />
+
+<item itemtype="Node" CircId="Node-124" mainComp="false" Pos="104,776" />
+
+<item itemtype="Node" CircId="Node-127" mainComp="false" Pos="104,824" />
+
+<item itemtype="Node" CircId="Node-130" mainComp="false" Pos="164,776" />
+
+<item itemtype="Node" CircId="Node-134" mainComp="false" Pos="164,824" />
+
+<item itemtype="Connector" uid="connector-135" startpinid="Voltimeter-2-rPin" endpinid="Mega-1-GND2" pointList="-36,700,52,700,52,644" />
+
+<item itemtype="Connector" uid="connector-136" startpinid="WS2812-5-OutPin" endpinid="WS2812-8-InPin" pointList="168,344,168,332,180,332" />
+
+<item itemtype="Connector" uid="connector-137" startpinid="WS2812-8-OutPin" endpinid="WS2812-9-InPin" pointList="204,344,204,332,216,332" />
+
+<item itemtype="Connector" uid="connector-138" startpinid="WS2812-13-OutPin" endpinid="WS2812-14-InPin" pointList="168,392,168,380,180,380" />
+
+<item itemtype="Connector" uid="connector-139" startpinid="WS2812-14-OutPin" endpinid="WS2812-12-InPin" pointList="204,392,204,380,216,380" />
+
+<item itemtype="Connector" uid="connector-140" startpinid="WS2812-18-OutPin" endpinid="WS2812-19-InPin" pointList="168,440,168,428,180,428" />
+
+<item itemtype="Connector" uid="connector-141" startpinid="WS2812-19-OutPin" endpinid="WS2812-17-InPin" pointList="204,440,204,428,216,428" />
+
+<item itemtype="Connector" uid="connector-142" startpinid="Mega-1-13" endpinid="Led-25-lPin" pointList="20,500,20,480" />
+
+<item itemtype="Connector" uid="connector-143" startpinid="Led-25-rPin" endpinid="Resistor-39-rPin" pointList="20,448,20,440" />
+
+<item itemtype="Connector" uid="connector-144" startpinid="Resistor-39-lPin" endpinid="Ground-53-Gnd" pointList="20,408,20,392" />
+
+<item itemtype="Connector" uid="connector-145" startpinid="Mega-1-3" endpinid="WS2812-18-InPin" pointList="108,500,108,428,144,428" />
+
+<item itemtype="Connector" uid="connector-146" startpinid="Mega-1-4" endpinid="WS2812-13-InPin" pointList="100,500,100,380,144,380" />
+
+<item itemtype="Connector" uid="connector-147" startpinid="Mega-1-5" endpinid="WS2812-5-InPin" pointList="92,500,92,332,144,332" />
+
+<item itemtype="Connector" uid="connector-148" startpinid="Voltimeter-2-lPin" endpinid="Node-109-0" pointList="-52,700,-52,712,44,712" />
+
+<item itemtype="Connector" uid="connector-149" startpinid="Push-77-pinP0" endpinid="Node-130-0" pointList="176,776,164,776" />
+
+<item itemtype="Connector" uid="connector-150" startpinid="Node-109-2" endpinid="Mega-1-5V00" pointList="44,712,44,644" />
+
+<item itemtype="Connector" uid="connector-151" startpinid="Node-112-2" endpinid="Node-109-1" pointList="44,740,44,712" />
+
+<item itemtype="Connector" uid="connector-152" startpinid="Node-112-1" endpinid="Node-118-0" pointList="44,740,44,776" />
+
+<item itemtype="Connector" uid="connector-153" startpinid="Node-115-2" endpinid="Node-112-0" pointList="104,740,44,740" />
+
+<item itemtype="Connector" uid="connector-154" startpinid="Node-115-1" endpinid="Node-124-0" pointList="104,740,104,776" />
+
+<item itemtype="Connector" uid="connector-155" startpinid="Node-118-2" endpinid="Push-76-pinP0" pointList="44,776,56,776" />
+
+<item itemtype="Connector" uid="connector-156" startpinid="Node-118-1" endpinid="Node-121-0" pointList="44,776,44,824" />
+
+<item itemtype="Connector" uid="connector-157" startpinid="Node-121-2" endpinid="Push-73-pinP0" pointList="44,824,56,824" />
+
+<item itemtype="Connector" uid="connector-158" startpinid="Node-121-1" endpinid="Push-59-pinP0" pointList="44,824,44,876,56,876" />
+
+<item itemtype="Connector" uid="connector-159" startpinid="Node-124-2" endpinid="Push-75-pinP0" pointList="104,776,116,776" />
+
+<item itemtype="Connector" uid="connector-160" startpinid="Node-124-1" endpinid="Node-127-0" pointList="104,776,104,824" />
+
+<item itemtype="Connector" uid="connector-161" startpinid="Node-127-2" endpinid="Push-72-pinP0" pointList="104,824,116,824" />
+
+<item itemtype="Connector" uid="connector-162" startpinid="Node-127-1" endpinid="Push-70-pinP0" pointList="104,824,104,876,116,876" />
+
+<item itemtype="Connector" uid="connector-163" startpinid="Node-130-2" endpinid="Node-115-0" pointList="164,776,164,740,104,740" />
+
+<item itemtype="Connector" uid="connector-164" startpinid="Node-130-1" endpinid="Node-134-0" pointList="164,776,164,824" />
+
+<item itemtype="Connector" uid="connector-165" startpinid="Push-74-pinP0" endpinid="Node-134-1" pointList="176,824,164,824" />
+
+<item itemtype="Connector" uid="connector-166" startpinid="Node-134-2" endpinid="Push-71-pinP0" pointList="164,824,164,876,176,876" />
+
+<item itemtype="Connector" uid="Connector-176" startpinid="Push-59-switch0pinN" endpinid="Mega-1-31" pointList="88,876,88,952,396,952,396,540,236,540" />
+
+<item itemtype="Connector" uid="Connector-177" startpinid="Push-70-switch0pinN" endpinid="Mega-1-33" pointList="148,876,148,948,392,948,392,548,236,548" />
+
+<item itemtype="Connector" uid="Connector-178" startpinid="Push-71-switch0pinN" endpinid="Mega-1-35" pointList="208,876,208,944,388,944,388,556,236,556" />
+
+<item itemtype="Connector" uid="Connector-179" startpinid="Push-73-switch0pinN" endpinid="Mega-1-37" pointList="88,824,92,824,92,940,384,940,384,564,236,564" />
+
+<item itemtype="Connector" uid="Connector-180" startpinid="Push-72-switch0pinN" endpinid="Mega-1-39" pointList="148,824,152,824,152,936,380,936,380,572,236,572" />
+
+<item itemtype="Connector" uid="Connector-181" startpinid="Push-74-switch0pinN" endpinid="Mega-1-41" pointList="208,824,212,824,212,932,376,932,376,580,236,580" />
+
+<item itemtype="Connector" uid="Connector-182" startpinid="Push-76-switch0pinN" endpinid="Mega-1-43" pointList="88,776,96,776,96,928,372,928,372,588,236,588" />
+
+<item itemtype="Connector" uid="Connector-183" startpinid="Push-75-switch0pinN" endpinid="Mega-1-45" pointList="148,776,156,776,156,924,368,924,368,596,236,596" />
+
+<item itemtype="Connector" uid="Connector-184" startpinid="Push-77-switch0pinN" endpinid="Mega-1-47" pointList="208,776,216,776,216,920,364,920,364,604,236,604" />
 
 </circuit>
