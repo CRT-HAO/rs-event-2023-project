@@ -12,7 +12,7 @@ Adafruit_NeoPixel strip2(60, 4, NEO_GRB + NEO_KHZ800);
 Adafruit_NeoPixel strip3(60, 5, NEO_GRB + NEO_KHZ800);
 
 // 存放所有敲擊墊的2維陣列
-std::vector<std::vector<StrikePad>> pads(BOARD_ROWS, std::vector<StrikePad>());
+std::vector<std::vector<StrikePad>> pads(BOARD_SIZE, std::vector<StrikePad>());
 
 /**
  * @brief 初始化敲擊墊
