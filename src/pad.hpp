@@ -3,8 +3,8 @@
 #include <Arduino.h>
 #include <ArduinoSTL.h>
 
-#include "StrikePad.h"
 #include "config.h"
+#include "strike_pad.h"
 
 // 定義3組燈條
 Adafruit_NeoPixel strip1(60, 3, NEO_GRB + NEO_KHZ800);

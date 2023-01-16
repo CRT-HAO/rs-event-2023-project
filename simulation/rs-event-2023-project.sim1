@@ -48,6 +48,10 @@
 
 <item itemtype="Push" CircId="Push-77" mainComp="false" Show_id="true" Show_Val="false" Pos="192,776" rotation="0" hflip="1" vflip="1" label="2, 2" idLabPos="-12,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Norm_Close="false" Poles="1 Poles" />
 
+<item itemtype="TextComponent" CircId="TextComponent-227" mainComp="false" Show_id="false" Show_Val="false" Pos="168,460" rotation="0" hflip="1" vflip="1" label="TextComponent-227" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="2 Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="&#x3E X &#x3E" />
+
+<item itemtype="TextComponent" CircId="TextComponent-228" mainComp="false" Show_id="false" Show_Val="false" Pos="112,416" rotation="-90" hflip="1" vflip="1" label="TextComponent-228" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Margin="2 Pixels" Border="1 _Pixels" Opacity="1" Font="Helvetica [Cronyx]" Font_Size="10 _Pixels" Fixed_Width="true" Text="&#x3E Y &#x3E" />
+
 <item itemtype="Node" CircId="Node-109" mainComp="false" Pos="44,712" />
 
 <item itemtype="Node" CircId="Node-112" mainComp="false" Pos="44,740" />
@@ -66,86 +70,86 @@
 
 <item itemtype="Node" CircId="Node-134" mainComp="false" Pos="164,824" />
 
-<item itemtype="Connector" uid="connector-135" startpinid="Voltimeter-2-rPin" endpinid="Mega-1-GND2" pointList="-36,700,52,700,52,644" />
+<item itemtype="Connector" uid="connector-186" startpinid="Voltimeter-2-rPin" endpinid="Mega-1-GND2" pointList="-36,700,52,700,52,644" />
 
-<item itemtype="Connector" uid="connector-136" startpinid="WS2812-5-OutPin" endpinid="WS2812-8-InPin" pointList="168,344,168,332,180,332" />
+<item itemtype="Connector" uid="connector-187" startpinid="WS2812-5-OutPin" endpinid="WS2812-8-InPin" pointList="168,344,168,332,180,332" />
 
-<item itemtype="Connector" uid="connector-137" startpinid="WS2812-8-OutPin" endpinid="WS2812-9-InPin" pointList="204,344,204,332,216,332" />
+<item itemtype="Connector" uid="connector-188" startpinid="WS2812-8-OutPin" endpinid="WS2812-9-InPin" pointList="204,344,204,332,216,332" />
 
-<item itemtype="Connector" uid="connector-138" startpinid="WS2812-13-OutPin" endpinid="WS2812-14-InPin" pointList="168,392,168,380,180,380" />
+<item itemtype="Connector" uid="connector-189" startpinid="WS2812-13-OutPin" endpinid="WS2812-14-InPin" pointList="168,392,168,380,180,380" />
 
-<item itemtype="Connector" uid="connector-139" startpinid="WS2812-14-OutPin" endpinid="WS2812-12-InPin" pointList="204,392,204,380,216,380" />
+<item itemtype="Connector" uid="connector-190" startpinid="WS2812-14-OutPin" endpinid="WS2812-12-InPin" pointList="204,392,204,380,216,380" />
 
-<item itemtype="Connector" uid="connector-140" startpinid="WS2812-18-OutPin" endpinid="WS2812-19-InPin" pointList="168,440,168,428,180,428" />
+<item itemtype="Connector" uid="connector-191" startpinid="WS2812-18-OutPin" endpinid="WS2812-19-InPin" pointList="168,440,168,428,180,428" />
 
-<item itemtype="Connector" uid="connector-141" startpinid="WS2812-19-OutPin" endpinid="WS2812-17-InPin" pointList="204,440,204,428,216,428" />
+<item itemtype="Connector" uid="connector-192" startpinid="WS2812-19-OutPin" endpinid="WS2812-17-InPin" pointList="204,440,204,428,216,428" />
 
-<item itemtype="Connector" uid="connector-142" startpinid="Mega-1-13" endpinid="Led-25-lPin" pointList="20,500,20,480" />
+<item itemtype="Connector" uid="connector-193" startpinid="Mega-1-13" endpinid="Led-25-lPin" pointList="20,500,20,480" />
 
-<item itemtype="Connector" uid="connector-143" startpinid="Led-25-rPin" endpinid="Resistor-39-rPin" pointList="20,448,20,440" />
+<item itemtype="Connector" uid="connector-194" startpinid="Led-25-rPin" endpinid="Resistor-39-rPin" pointList="20,448,20,440" />
 
-<item itemtype="Connector" uid="connector-144" startpinid="Resistor-39-lPin" endpinid="Ground-53-Gnd" pointList="20,408,20,392" />
+<item itemtype="Connector" uid="connector-195" startpinid="Resistor-39-lPin" endpinid="Ground-53-Gnd" pointList="20,408,20,392" />
 
-<item itemtype="Connector" uid="connector-145" startpinid="Mega-1-3" endpinid="WS2812-18-InPin" pointList="108,500,108,428,144,428" />
+<item itemtype="Connector" uid="connector-196" startpinid="Mega-1-3" endpinid="WS2812-18-InPin" pointList="108,500,108,428,144,428" />
 
-<item itemtype="Connector" uid="connector-146" startpinid="Mega-1-4" endpinid="WS2812-13-InPin" pointList="100,500,100,380,144,380" />
+<item itemtype="Connector" uid="connector-197" startpinid="Mega-1-4" endpinid="WS2812-13-InPin" pointList="100,500,100,380,144,380" />
 
-<item itemtype="Connector" uid="connector-147" startpinid="Mega-1-5" endpinid="WS2812-5-InPin" pointList="92,500,92,332,144,332" />
+<item itemtype="Connector" uid="connector-198" startpinid="Mega-1-5" endpinid="WS2812-5-InPin" pointList="92,500,92,332,144,332" />
 
-<item itemtype="Connector" uid="connector-148" startpinid="Voltimeter-2-lPin" endpinid="Node-109-0" pointList="-52,700,-52,712,44,712" />
+<item itemtype="Connector" uid="connector-199" startpinid="Voltimeter-2-lPin" endpinid="Node-109-0" pointList="-52,700,-52,712,44,712" />
 
-<item itemtype="Connector" uid="connector-149" startpinid="Push-77-pinP0" endpinid="Node-130-0" pointList="176,776,164,776" />
+<item itemtype="Connector" uid="connector-200" startpinid="Push-77-pinP0" endpinid="Node-130-0" pointList="176,776,164,776" />
 
-<item itemtype="Connector" uid="connector-150" startpinid="Node-109-2" endpinid="Mega-1-5V00" pointList="44,712,44,644" />
+<item itemtype="Connector" uid="connector-201" startpinid="Node-109-2" endpinid="Mega-1-5V00" pointList="44,712,44,644" />
 
-<item itemtype="Connector" uid="connector-151" startpinid="Node-112-2" endpinid="Node-109-1" pointList="44,740,44,712" />
+<item itemtype="Connector" uid="connector-202" startpinid="Node-112-2" endpinid="Node-109-1" pointList="44,740,44,712" />
 
-<item itemtype="Connector" uid="connector-152" startpinid="Node-112-1" endpinid="Node-118-0" pointList="44,740,44,776" />
+<item itemtype="Connector" uid="connector-203" startpinid="Node-112-1" endpinid="Node-118-0" pointList="44,740,44,776" />
 
-<item itemtype="Connector" uid="connector-153" startpinid="Node-115-2" endpinid="Node-112-0" pointList="104,740,44,740" />
+<item itemtype="Connector" uid="connector-204" startpinid="Node-115-2" endpinid="Node-112-0" pointList="104,740,44,740" />
 
-<item itemtype="Connector" uid="connector-154" startpinid="Node-115-1" endpinid="Node-124-0" pointList="104,740,104,776" />
+<item itemtype="Connector" uid="connector-205" startpinid="Node-115-1" endpinid="Node-124-0" pointList="104,740,104,776" />
 
-<item itemtype="Connector" uid="connector-155" startpinid="Node-118-2" endpinid="Push-76-pinP0" pointList="44,776,56,776" />
+<item itemtype="Connector" uid="connector-206" startpinid="Node-118-2" endpinid="Push-76-pinP0" pointList="44,776,56,776" />
 
-<item itemtype="Connector" uid="connector-156" startpinid="Node-118-1" endpinid="Node-121-0" pointList="44,776,44,824" />
+<item itemtype="Connector" uid="connector-207" startpinid="Node-118-1" endpinid="Node-121-0" pointList="44,776,44,824" />
 
-<item itemtype="Connector" uid="connector-157" startpinid="Node-121-2" endpinid="Push-73-pinP0" pointList="44,824,56,824" />
+<item itemtype="Connector" uid="connector-208" startpinid="Node-121-2" endpinid="Push-73-pinP0" pointList="44,824,56,824" />
 
-<item itemtype="Connector" uid="connector-158" startpinid="Node-121-1" endpinid="Push-59-pinP0" pointList="44,824,44,876,56,876" />
+<item itemtype="Connector" uid="connector-209" startpinid="Node-121-1" endpinid="Push-59-pinP0" pointList="44,824,44,876,56,876" />
 
-<item itemtype="Connector" uid="connector-159" startpinid="Node-124-2" endpinid="Push-75-pinP0" pointList="104,776,116,776" />
+<item itemtype="Connector" uid="connector-210" startpinid="Node-124-2" endpinid="Push-75-pinP0" pointList="104,776,116,776" />
 
-<item itemtype="Connector" uid="connector-160" startpinid="Node-124-1" endpinid="Node-127-0" pointList="104,776,104,824" />
+<item itemtype="Connector" uid="connector-211" startpinid="Node-124-1" endpinid="Node-127-0" pointList="104,776,104,824" />
 
-<item itemtype="Connector" uid="connector-161" startpinid="Node-127-2" endpinid="Push-72-pinP0" pointList="104,824,116,824" />
+<item itemtype="Connector" uid="connector-212" startpinid="Node-127-2" endpinid="Push-72-pinP0" pointList="104,824,116,824" />
 
-<item itemtype="Connector" uid="connector-162" startpinid="Node-127-1" endpinid="Push-70-pinP0" pointList="104,824,104,876,116,876" />
+<item itemtype="Connector" uid="connector-213" startpinid="Node-127-1" endpinid="Push-70-pinP0" pointList="104,824,104,876,116,876" />
 
-<item itemtype="Connector" uid="connector-163" startpinid="Node-130-2" endpinid="Node-115-0" pointList="164,776,164,740,104,740" />
+<item itemtype="Connector" uid="connector-214" startpinid="Node-130-2" endpinid="Node-115-0" pointList="164,776,164,740,104,740" />
 
-<item itemtype="Connector" uid="connector-164" startpinid="Node-130-1" endpinid="Node-134-0" pointList="164,776,164,824" />
+<item itemtype="Connector" uid="connector-215" startpinid="Node-130-1" endpinid="Node-134-0" pointList="164,776,164,824" />
 
-<item itemtype="Connector" uid="connector-165" startpinid="Push-74-pinP0" endpinid="Node-134-1" pointList="176,824,164,824" />
+<item itemtype="Connector" uid="connector-216" startpinid="Push-74-pinP0" endpinid="Node-134-1" pointList="176,824,164,824" />
 
-<item itemtype="Connector" uid="connector-166" startpinid="Node-134-2" endpinid="Push-71-pinP0" pointList="164,824,164,876,176,876" />
+<item itemtype="Connector" uid="connector-217" startpinid="Node-134-2" endpinid="Push-71-pinP0" pointList="164,824,164,876,176,876" />
 
-<item itemtype="Connector" uid="Connector-176" startpinid="Push-59-switch0pinN" endpinid="Mega-1-31" pointList="88,876,88,952,396,952,396,540,236,540" />
+<item itemtype="Connector" uid="connector-218" startpinid="Push-59-switch0pinN" endpinid="Mega-1-31" pointList="88,876,88,952,396,952,396,540,236,540" />
 
-<item itemtype="Connector" uid="Connector-177" startpinid="Push-70-switch0pinN" endpinid="Mega-1-33" pointList="148,876,148,948,392,948,392,548,236,548" />
+<item itemtype="Connector" uid="connector-219" startpinid="Push-70-switch0pinN" endpinid="Mega-1-33" pointList="148,876,148,948,392,948,392,548,236,548" />
 
-<item itemtype="Connector" uid="Connector-178" startpinid="Push-71-switch0pinN" endpinid="Mega-1-35" pointList="208,876,208,944,388,944,388,556,236,556" />
+<item itemtype="Connector" uid="connector-220" startpinid="Push-71-switch0pinN" endpinid="Mega-1-35" pointList="208,876,208,944,388,944,388,556,236,556" />
 
-<item itemtype="Connector" uid="Connector-179" startpinid="Push-73-switch0pinN" endpinid="Mega-1-37" pointList="88,824,92,824,92,940,384,940,384,564,236,564" />
+<item itemtype="Connector" uid="connector-221" startpinid="Push-73-switch0pinN" endpinid="Mega-1-37" pointList="88,824,92,824,92,940,384,940,384,564,236,564" />
 
-<item itemtype="Connector" uid="Connector-180" startpinid="Push-72-switch0pinN" endpinid="Mega-1-39" pointList="148,824,152,824,152,936,380,936,380,572,236,572" />
+<item itemtype="Connector" uid="connector-222" startpinid="Push-72-switch0pinN" endpinid="Mega-1-39" pointList="148,824,152,824,152,936,380,936,380,572,236,572" />
 
-<item itemtype="Connector" uid="Connector-181" startpinid="Push-74-switch0pinN" endpinid="Mega-1-41" pointList="208,824,212,824,212,932,376,932,376,580,236,580" />
+<item itemtype="Connector" uid="connector-223" startpinid="Push-74-switch0pinN" endpinid="Mega-1-41" pointList="208,824,212,824,212,932,376,932,376,580,236,580" />
 
-<item itemtype="Connector" uid="Connector-182" startpinid="Push-76-switch0pinN" endpinid="Mega-1-43" pointList="88,776,96,776,96,928,372,928,372,588,236,588" />
+<item itemtype="Connector" uid="connector-224" startpinid="Push-76-switch0pinN" endpinid="Mega-1-43" pointList="88,776,96,776,96,928,372,928,372,588,236,588" />
 
-<item itemtype="Connector" uid="Connector-183" startpinid="Push-75-switch0pinN" endpinid="Mega-1-45" pointList="148,776,156,776,156,924,368,924,368,596,236,596" />
+<item itemtype="Connector" uid="connector-225" startpinid="Push-75-switch0pinN" endpinid="Mega-1-45" pointList="148,776,156,776,156,924,368,924,368,596,236,596" />
 
-<item itemtype="Connector" uid="Connector-184" startpinid="Push-77-switch0pinN" endpinid="Mega-1-47" pointList="208,776,216,776,216,920,364,920,364,604,236,604" />
+<item itemtype="Connector" uid="connector-226" startpinid="Push-77-switch0pinN" endpinid="Mega-1-47" pointList="208,776,216,776,216,920,364,920,364,604,236,604" />
 
 </circuit>

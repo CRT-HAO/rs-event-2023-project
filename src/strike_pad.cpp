@@ -1,4 +1,4 @@
-#include "StrikePad.h"
+#include "strike_pad.h"
 
 #include <Arduino.h>
 
